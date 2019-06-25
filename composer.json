@@ -1,0 +1,20 @@
+{
+    "name": "sumitcybertron/php-zip",
+    "type": "library",
+    "description": "PHP Zip Library",
+    "keywords": ["zip", "unzip"],
+    "homepage": "https://github.com/sumitcybertron/php-zip",
+    "authors": [
+        {
+            "name": "Sumit Kumar",
+            "email": "theprofessional1992@gmail.com",
+            "homepage": "https://github.com/sumitcybertron/",
+            "role": "Developer"
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "Zip\\": "src/"
+        }
+    }
+}
