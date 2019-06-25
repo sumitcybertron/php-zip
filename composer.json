@@ -14,7 +14,7 @@
     ],
      "autoload": {
         "psr-4": {
-            "Zip\\": "src/"
+            "Zip\\": "src/zip.php"
         }
     }
 }
